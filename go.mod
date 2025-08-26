@@ -5,7 +5,7 @@ go 1.25
 // This is a workspace module containing multiple Caddy plugins
 
 require (
-	github.com/caddyserver/caddy/v2 v2.10.1
+	github.com/caddyserver/caddy/v2 v2.10.2
 	go.uber.org/zap v1.27.0
 )
 
